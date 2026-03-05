@@ -95,13 +95,16 @@ Mo Tu We Th Fr Sa Su
 |11 | 24 Jun | Evaluating AI-Supported Deliberation: Participation and Legitimacy |
 |12 | 08 Jul | Power, Contestability, and Ethical Risks of Deliberative AI |
 |13 | 15 Jul | Presentations |
+
+
+
 <table>
 <thead>
 <tr>
-<th>Phase</th>
-<th>Week</th>
-<th>Date (Wed)</th>
-<th>Topic</th>
+<th align="left">Phase</th>
+<th align="left">Week</th>
+<th align="left">Date (Wed)</th>
+<th align="left">Topic</th>
 </tr>
 </thead>
 
@@ -113,43 +116,38 @@ Mo Tu We Th Fr Sa Su
 <td>08 Apr</td>
 <td>Introduction</td>
 </tr>
-
 <tr>
 <td>🟦 2</td>
 <td>15 Apr</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
-
 <tr>
 <td>🟦 3</td>
 <td>22 Apr</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
-
 <tr>
 <td>🟦 4</td>
 <td>29 Apr</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
-
 <tr>
 <td>🟦 5</td>
 <td>06 May</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
-
 <tr>
 <td>🟦 6</td>
 <td>13 May</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
-
 <tr>
 <td>🟦 7</td>
 <td>20 May</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
 
+<tr><td colspan="4"><hr></td></tr>
 
 <tr>
 <td rowspan="4"><b>Scientific<br>Contribution</b></td>
@@ -157,25 +155,23 @@ Mo Tu We Th Fr Sa Su
 <td>27 May</td>
 <td>1:1 Feedback on Project Idea</td>
 </tr>
-
 <tr>
 <td>🟨 9</td>
 <td>10 Jun</td>
 <td>Project Presentations (Introduction + Literature Section)</td>
 </tr>
-
 <tr>
 <td>🟨 10</td>
 <td>17 Jun</td>
 <td>Results Clinic — What have you found out? Tell a story</td>
 </tr>
-
 <tr>
 <td>🟨 11</td>
 <td>24 Jun</td>
 <td>Writing & Figures Clinic — Refining writing, title, and figure captions</td>
 </tr>
 
+<tr><td colspan="4"><hr></td></tr>
 
 <tr>
 <td rowspan="2"><b>Marketing<br>Your Idea</b></td>
@@ -183,7 +179,6 @@ Mo Tu We Th Fr Sa Su
 <td>08 Jul</td>
 <td>Feedback on Video Presentation & Slides / Online Post / GitHub Repo</td>
 </tr>
-
 <tr>
 <td>🟩 13</td>
 <td>15 Jul</td>
