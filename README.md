@@ -82,20 +82,118 @@ Mo Tu We Th Fr Sa Su
 
 | Week | Date (Wed) | Topic |
 |------|------------|-------|
-| 1 | 08 Apr 2026 | Introduction: Fairness, Bias, and Collective Decision-Making in AI |
-| 2 | 15 Apr 2026 | Social Bias and Harm in AI Systems: Concepts and Typologies |
-| 3 | 22 Apr 2026 | Fairness Notions in NLP and Political Theory |
-| 4 | 29 Apr 2026 | Measuring Bias in LLMs: Embedding-, Probability-, and Generation-Based Metrics |
-| 5 | 06 May 2026 | Bias Benchmarks and Datasets: Validity, Reliability, and Coverage |
-| 6 | 13 May 2026 | Limits of Bias Measurement and Fairness Guarantees |
-| 7 | 20 May 2026 | Preference Formation, Value Pluralism, and Social Choice |
-| 8 | 27 May 2026 | LLM Alignment through Social Choice: Aggregation, Trade-offs, Impossibility |
-| — | 03 Jun 2026 | **No lecture (lecture-free week)** |
-| 9 | 10 Jun 2026 | AI in Deliberative Democracy: Roles and Use Cases |
-|10 | 17 Jun 2026 | AI as Moderator, Facilitator, and Persona Simulator |
-|11 | 24 Jun 2026 | Evaluating AI-Supported Deliberation: Participation and Legitimacy |
-|12 | 08 Jul 2026 | Power, Contestability, and Ethical Risks of Deliberative AI |
-|13 | 15 Jul 2026 | Student Presentations and Research Paper Discussion |
+| 1 | 08 Apr | Introduction: Fairness, Bias, and Collective Decision-Making in AI |
+| 2 | 15 Apr | Social Bias and Harm in AI Systems: Concepts and Typologies |
+| 3 | 22 Apr | Fairness Notions in NLP and Political Theory |
+| 4 | 29 Apr | Measuring Bias in LLMs: Embedding-, Probability-, and Generation-Based Metrics |
+| 5 | 06 May | Bias Benchmarks and Datasets: Validity, Reliability, and Coverage |
+| 6 | 13 May | Limits of Bias Measurement and Fairness Guarantees |
+| 7 | 20 May | Preference Formation, Value Pluralism, and Social Choice |
+| 8 | 27 May | LLM Alignment through Social Choice: Aggregation, Trade-offs, Impossibility |
+| 9 | 10 Jun | AI in Deliberative Democracy: Roles and Use Cases |
+|10 | 17 Jun | AI as Moderator, Facilitator, and Persona Simulator |
+|11 | 24 Jun | Evaluating AI-Supported Deliberation: Participation and Legitimacy |
+|12 | 08 Jul | Power, Contestability, and Ethical Risks of Deliberative AI |
+|13 | 15 Jul | Presentations |
+
+
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Week</th>
+<th>Date (Wed)</th>
+<th>Topic</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td rowspan="7">🟦 <b>Generating Ideas</b></td>
+<td>1</td>
+<td>08 Apr</td>
+<td>Introduction</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>15 Apr</td>
+<td>Topics / Getting Ideas / Reading Papers</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>22 Apr</td>
+<td>Topics / Getting Ideas / Reading Papers</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>29 Apr</td>
+<td>Topics / Getting Ideas / Reading Papers</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>06 May</td>
+<td>Topics / Getting Ideas / Reading Papers</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>13 May</td>
+<td>Topics / Getting Ideas / Reading Papers</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>20 May</td>
+<td>Topics / Getting Ideas / Reading Papers</td>
+</tr>
+
+
+<tr>
+<td rowspan="4">🟨 <b>Scientific Contribution</b></td>
+<td>8</td>
+<td>27 May</td>
+<td>1:1 Feedback on Project Idea</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>10 Jun</td>
+<td>Project Presentations (Introduction + Literature Section)</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>17 Jun</td>
+<td>Results Clinic — What have you found out? Tell a story</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>24 Jun</td>
+<td>Writing & Figures Clinic — Refining writing, title, and figure captions</td>
+</tr>
+
+
+<tr>
+<td rowspan="2">🟩 <b>Marketing Your Idea</b></td>
+<td>12</td>
+<td>08 Jul</td>
+<td>Feedback on Video Presentation & Slides / Online Post / GitHub Repo</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td>15 Jul</td>
+<td>Recording of Final Presentation</td>
+</tr>
+
+</tbody>
+</table>
 
 
 ---
