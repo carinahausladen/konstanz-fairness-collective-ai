@@ -103,7 +103,7 @@ Mo Tu We Th Fr Sa Su
 <tr>
 <th>Phase</th>
 <th>Week</th>
-<th>Date (Wed)</th>
+<th>Date</th>
 <th>Topic</th>
 </tr>
 </thead>
@@ -112,7 +112,7 @@ Mo Tu We Th Fr Sa Su
 
 <tr>
 <td rowspan="7" style="background:#e8f2ff; font-weight:bold; padding:12px;">
-🟦 Generating<br>Ideas
+Generating<br>Ideas
 </td>
 <td>🟦 1</td>
 <td>08 Apr</td>
@@ -158,7 +158,7 @@ Mo Tu We Th Fr Sa Su
 
 <tr>
 <td rowspan="4" style="background:#fff6d6; font-weight:bold; padding:12px;">
-🟨 Scientific<br>Contribution
+Scientific<br>Contribution
 </td>
 <td>🟨 8</td>
 <td>27 May</td>
@@ -186,7 +186,7 @@ Mo Tu We Th Fr Sa Su
 
 <tr>
 <td rowspan="2" style="background:#e7f7ed; font-weight:bold; padding:12px;">
-🟩 Marketing<br>Your Idea
+Marketing<br>Your Idea
 </td>
 <td>🟩 12</td>
 <td>08 Jul</td>
