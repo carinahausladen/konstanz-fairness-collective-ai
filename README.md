@@ -103,7 +103,8 @@ Mo Tu We Th Fr Sa Su
 <tr>
 <th>Phase</th>
 <th>Week</th>
-<th>Date</th>
+<th>Date (Wed)</th>
+<th>Workload</th>
 <th>Topic</th>
 </tr>
 </thead>
@@ -111,92 +112,118 @@ Mo Tu We Th Fr Sa Su
 <tbody>
 
 <tr>
-<td rowspan="7" style="background:#e8f2ff; font-weight:bold; padding:12px;">
-Generating<br>Ideas
-</td>
-<td>🟦 1</td>
+<td rowspan="7"><b>Generating<br>Ideas</b></td>
+<td>1</td>
 <td>08 Apr</td>
+<td>🟦</td>
 <td>Introduction</td>
 </tr>
 
 <tr>
-<td>🟦 2</td>
+<td>2</td>
 <td>15 Apr</td>
+<td>🟩</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
 
 <tr>
-<td>🟦 3</td>
+<td>3</td>
 <td>22 Apr</td>
+<td>🟩</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
 
 <tr>
-<td>🟦 4</td>
+<td>4</td>
 <td>29 Apr</td>
+<td>🟨</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
 
 <tr>
-<td>🟦 5</td>
+<td>5</td>
 <td>06 May</td>
+<td>🟨</td>
 <td>Topics / Getting Ideas / Reading Papers</td>
 </tr>
 
 <tr>
-<td>🟦 6</td>
+<td>6</td>
 <td>13 May</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td>🟧</td>
+<td>Topics / Getting Ideas / Reading Papers (students should already start research)</td>
 </tr>
 
 <tr>
-<td>🟦 7</td>
+<td>7</td>
 <td>20 May</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td>🟧</td>
+<td>Topics / Getting Ideas / Reading Papers (finalizing project idea)</td>
 </tr>
 
+<tr><td colspan="5"><hr></td></tr>
 
 <tr>
-<td rowspan="4" style="background:#fff6d6; font-weight:bold; padding:12px;">
-Scientific<br>Contribution
-</td>
-<td>🟨 8</td>
+<td rowspan="4"><b>Scientific<br>Contribution</b></td>
+<td>8</td>
 <td>27 May</td>
+<td>🟥</td>
 <td>1:1 Feedback on Project Idea</td>
 </tr>
 
 <tr>
-<td>🟨 9</td>
+<td>9</td>
 <td>10 Jun</td>
+<td>🟥</td>
 <td>Project Presentations (Introduction + Literature Section)</td>
 </tr>
 
 <tr>
-<td>🟨 10</td>
+<td>10</td>
 <td>17 Jun</td>
+<td>🟧</td>
 <td>Results Clinic — What have you found out? Tell a story</td>
 </tr>
 
 <tr>
-<td>🟨 11</td>
+<td>11</td>
 <td>24 Jun</td>
+<td>🟧</td>
 <td>Writing & Figures Clinic — Refining writing, title, and figure captions</td>
 </tr>
 
+<tr><td colspan="5"><hr></td></tr>
 
 <tr>
-<td rowspan="2" style="background:#e7f7ed; font-weight:bold; padding:12px;">
-Marketing<br>Your Idea
-</td>
-<td>🟩 12</td>
+<td rowspan="2"><b>Marketing<br>Your Idea</b></td>
+<td>12</td>
 <td>08 Jul</td>
+<td>🟨</td>
 <td>Feedback on Video Presentation & Slides / Online Post / GitHub Repo</td>
 </tr>
 
 <tr>
-<td>🟩 13</td>
+<td>13</td>
 <td>15 Jul</td>
+<td>🟨</td>
 <td>Recording of Final Presentation</td>
+</tr>
+
+<tr><td colspan="5"><hr></td></tr>
+
+<tr>
+<td rowspan="2"><b>Post-Course<br>Work</b></td>
+<td>14</td>
+<td>—</td>
+<td>⬜</td>
+<td><i>Recommended break week — do not work on the project.</i></td>
+</tr>
+
+<tr>
+<td>15</td>
+<td>—</td>
+<td>🟨</td>
+<td>Final revision of the paper and submission.</td>
 </tr>
 
 </tbody>
