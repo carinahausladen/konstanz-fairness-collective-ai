@@ -29,6 +29,10 @@ Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 | 12 | 08 Jul | Power, Contestability, and Ethical Risks of Deliberative AI |
 | 13 | 15 Jul | Presentations |
 
+Course materials for each week are also maintained as a clickable GitHub Pages site once Pages is enabled:
+
+- [Weekly materials](./docs/)
+
 
 ---
 
