@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 07 — Preference Formation, Value Pluralism, and Social Choice"
+permalink: /week-07/
+---
+
 # Week 07 — Preference Formation, Value Pluralism, and Social Choice
 
 **Date:** 20 May (Wed)

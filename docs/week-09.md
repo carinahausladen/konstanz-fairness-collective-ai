@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 09 — AI in Deliberative Democracy"
+permalink: /week-09/
+---
+
 # Week 09 — AI in Deliberative Democracy
 
 **Date:** 10 Jun (Wed)

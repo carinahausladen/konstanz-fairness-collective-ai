@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 12 — Power, Contestability, and Ethical Risks of Deliberative AI"
+permalink: /week-12/
+---
+
 # Week 12 — Power, Contestability, and Ethical Risks of Deliberative AI
 
 **Date:** 08 Jul (Wed)

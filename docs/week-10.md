@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 10 — AI as Moderator, Facilitator, and Persona Simulator"
+permalink: /week-10/
+---
+
 # Week 10 — AI as Moderator, Facilitator, and Persona Simulator
 
 **Date:** 17 Jun (Wed)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 02 — Social Bias and Harm in AI Systems"
+permalink: /week-02/
+---
+
 # Week 02 — Social Bias and Harm in AI Systems
 
 **Date:** 15 Apr (Wed)

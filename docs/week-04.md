@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 04 — Measuring Bias in LLMs"
+permalink: /week-04/
+---
+
 # Week 04 — Measuring Bias in LLMs
 
 **Date:** 29 Apr (Wed)

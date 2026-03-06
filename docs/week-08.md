@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 08 — LLM Alignment through Social Choice"
+permalink: /week-08/
+---
+
 # Week 08 — LLM Alignment through Social Choice
 
 **Date:** 27 May (Wed)

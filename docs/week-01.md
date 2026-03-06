@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 01 — Introduction: Fairness, Bias, and Collective Decision-Making in AI"
+permalink: /week-01/
+---
+
 # Week 01 — Introduction: Fairness, Bias, and Collective Decision-Making in AI
 
 **Date:** 08 Apr (Wed)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 06 — Limits of Bias Measurement and Fairness Guarantees"
+permalink: /week-06/
+---
+
 # Week 06 — Limits of Bias Measurement and Fairness Guarantees
 
 **Date:** 13 May (Wed)

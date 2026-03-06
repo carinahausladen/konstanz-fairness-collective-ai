@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 13 — Presentations"
+permalink: /week-13/
+---
+
 # Week 13 — Presentations
 
 **Date:** 15 Jul (Wed)

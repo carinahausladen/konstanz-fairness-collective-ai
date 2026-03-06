@@ -1,0 +1,196 @@
+:root {
+  --ink: #fdf9ef;
+  --paper: #ffffff;
+  --line: rgba(243, 244, 246, 0.45);
+  --accent-a: #ff7a45;
+  --accent-b: #6a4cff;
+  --accent-c: #08b6c6;
+  --muted: #2c2f3a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--muted);
+  font-family: "Avenir Next", "Trebuchet MS", "Segoe UI", "Gill Sans", Arial, sans-serif;
+  background: radial-gradient(circle at top left, #ffdac1 0%, #f6ecec 25%, #f7f1fa 55%, #d7ecff 100%);
+  min-height: 100vh;
+}
+
+a {
+  color: #2a2ea8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.page-shell {
+  width: min(980px, calc(100% - 2rem));
+  margin: 1.5rem auto;
+  background: linear-gradient(180deg, rgba(255,255,255,0.94), rgba(255,255,255,0.9));
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 24px 50px rgba(45, 43, 88, 0.16);
+  backdrop-filter: blur(7px);
+  overflow: hidden;
+}
+
+.site-header {
+  padding: 1.5rem 1.8rem;
+  border-bottom: 1px solid rgba(24, 24, 40, 0.08);
+  background: linear-gradient(90deg, rgba(255, 122, 69, 0.16), rgba(106, 76, 255, 0.12));
+}
+
+.site-header .tag {
+  margin: 0;
+  letter-spacing: 0.11rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.75rem;
+  color: #3e3a5b;
+}
+
+.site-header h1 {
+  margin: 0.5rem 0;
+  font-size: clamp(1.6rem, 3vw, 2rem);
+  line-height: 1.2;
+}
+
+.site-header h1 a {
+  color: #2a2449;
+}
+
+.subtitle,
+.cta {
+  margin: 0.2rem 0;
+}
+
+.content-card {
+  padding: 1.5rem;
+}
+
+h2 {
+  margin-top: 0;
+  color: #2d2460;
+  font-size: 1.45rem;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1.2rem;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  font-size: 0.96rem;
+}
+
+.schedule-table thead th {
+  text-align: left;
+  padding: 0.85rem 0.9rem;
+  font-weight: 700;
+  background: linear-gradient(180deg, rgba(8, 182, 198, 0.2), rgba(106, 76, 255, 0.12));
+}
+
+.schedule-table th,
+.schedule-table td {
+  border-bottom: 1px solid var(--line);
+  padding: 0.8rem 0.85rem;
+  vertical-align: top;
+}
+
+.schedule-table tbody tr {
+  transition: transform 120ms ease, background-color 120ms ease;
+}
+
+.schedule-table tbody tr:hover {
+  background: rgba(255, 122, 69, 0.12);
+}
+
+.schedule-link {
+  display: block;
+  padding: 0.85rem 0.75rem;
+}
+
+.schedule-link:hover {
+  text-decoration: none;
+}
+
+.schedule-link .week {
+  color: #2b2670;
+  font-weight: 700;
+}
+
+.schedule-link .topic {
+  color: #2b2670;
+}
+
+.info-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0.8rem 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.info-grid li {
+  background: rgba(106, 76, 255, 0.1);
+  padding: 0.55rem 0.7rem;
+  border-radius: 10px;
+  border: 1px dashed rgba(53, 47, 124, 0.22);
+}
+
+.notebook-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.7rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, rgba(255,122,69,0.17), rgba(8,182,198,0.17));
+  border: 1px solid rgba(42, 42, 88, 0.15);
+  font-weight: 700;
+}
+
+.site-footer {
+  border-top: 1px solid rgba(24, 24, 40, 0.08);
+  padding: 1rem 1.5rem 1.5rem;
+}
+
+@media (max-width: 760px) {
+  .schedule-table thead {
+    display: none;
+  }
+
+  .schedule-table,
+  .schedule-table tbody,
+  .schedule-table tr,
+  .schedule-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .schedule-table tr {
+    border-bottom: 1px solid var(--line);
+    padding: 0.4rem 0;
+  }
+
+  .schedule-table td {
+    border-bottom: 0;
+  }
+
+  .schedule-table td:nth-child(1)::before { content: "Week"; font-weight: 700; display:block; color:#303a63; }
+  .schedule-table td:nth-child(2)::before { content: "Date"; font-weight: 700; color:#303a63; }
+  .schedule-table td:nth-child(3)::before { content: "Topic"; font-weight: 700; color:#303a63; }
+
+  .schedule-link {
+    display: grid;
+    gap: 0.25rem;
+    padding: 0.6rem 0;
+  }
+}

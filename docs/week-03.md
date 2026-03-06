@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 03 — Fairness Notions in NLP and Political Theory"
+permalink: /week-03/
+---
+
 # Week 03 — Fairness Notions in NLP and Political Theory
 
 **Date:** 22 Apr (Wed)

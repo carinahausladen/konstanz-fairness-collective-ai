@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 05 — Bias Benchmarks and Datasets"
+permalink: /week-05/
+---
+
 # Week 05 — Bias Benchmarks and Datasets
 
 **Date:** 06 May (Wed)

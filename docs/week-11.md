@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 11 — Evaluating AI-Supported Deliberation"
+permalink: /week-11/
+---
+
 # Week 11 — Evaluating AI-Supported Deliberation
 
 **Date:** 24 Jun (Wed)
