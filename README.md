@@ -1,84 +1,17 @@
 # Fairness and Collective Decision-Making in AI
 **Summer Semester 2026 · University of Konstanz**
+Wednesdays, 3:15–4:45 PM
 
-
-This seminar introduces analytical methods for studying fairness, bias, and participation in AI from a social science perspective. 
-The course focuses on understanding, evaluating, and interpreting their societal and political implications. 
-It builds on political theory, social choice, and fairness concepts to analyze AI methods critically, emphasizing qualitative reasoning alongside computational evaluation. 
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### APR 2026
-<pre>
-Mo Tu We Th Fr Sa Su
-       1  2  3  4  5
- 6  7 <mark>8</mark>  9 10 11 12
-13 14 <mark>15</mark> 16 17 18 19
-20 21 <mark>22</mark> 23 24 25 26
-27 28 <mark>29</mark> 30 __ __ __
-</pre>
-
-</td>
-<td align="center" width="25%">
-
-### MAY 2026
-<pre>
-Mo Tu We Th Fr Sa Su
-             1  2  3
- 4  5 <mark>6</mark>  7  8  9 10
-11 12 <mark>13</mark> 14 15 16 17
-18 19 <mark>20</mark> 21 22 23 24
-25 26 <mark>27</mark> 28 29 30 31
-</pre>
-
-</td>
-<td align="center" width="25%">
-
-### JUN 2026
-<pre>
-Mo Tu We Th Fr Sa Su
- 1  2  3  4  5  6  7
- 8  9 <mark>10</mark> 11 12 13 14
-15 16 <mark>17</mark> 18 19 20 21
-22 23 <mark>24</mark> 25 26 27 28
-29 30 __ __ __ __ __
-</pre>
-
-</td>
-<td align="center" width="25%">
-
-### JUL 2026
-<pre>
-Mo Tu We Th Fr Sa Su
-       1  2  3  4  5
- 6  7 <mark>8</mark>  9 10 11 12
-13 14 <mark>15</mark> 16 17 18 19
-20 21 22 23 24 25 26
-27 28 29 30 31 __ __
-</pre>
-
-</td>
-</tr>
-</table>
-
-> **Legend:** <mark>highlighted</mark> = lecture day  
-> **Period:** 07 Apr–18 Jul 2026 · **Lecture-free week:** 01–07 Jun 2026 ⚠️ No lecture on Wed 03 Jun
----
-## Core Readings
-
-1. **Gallegos, I. et al. (2024). _Bias and Fairness in Large Language Models: A Survey._ Computational Linguistics.**  
-   https://direct.mit.edu/coli/article/50/3/1097/2471010/coli_a_00524
-
-2. **Conitzer, V. et al. (2024). _Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback._ arXiv preprint.**  
-   https://arxiv.org/abs/2404.10271
-
-3. **Zeginis, D., Patsouras, C.-F., Tambouris, E., & Tarabanis, K. (2025). _Review of AI Features to Support Mass Deliberations._ (EGOV 2025 proceedings).**  
-   https://dl.acm.org/doi/10.1007/978-3-032-01589-1_21
+This seminar introduces analytical methods for studying fairness, bias, and participation in AI from a social science perspective.  
+The course focuses on understanding, evaluating, and interpreting their societal and political implications.  
+It builds on political theory, social choice, and fairness concepts to analyze AI methods critically, emphasizing qualitative reasoning alongside computational evaluation.
 
 ---
-## Schedule
+
+Zeus: https://zeus.uni-konstanz.de/hioserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s9
+Slides: https://slides.com/carinah/fairness-collective-decisions-ai
+
+## Calendar and Class Schedule (Wed sessions)
 
 | Week | Date (Wed) | Topic |
 |------|------------|-------|
@@ -91,165 +24,139 @@ Mo Tu We Th Fr Sa Su
 | 7 | 20 May | Preference Formation, Value Pluralism, and Social Choice |
 | 8 | 27 May | LLM Alignment through Social Choice: Aggregation, Trade-offs, Impossibility |
 | 9 | 10 Jun | AI in Deliberative Democracy: Roles and Use Cases |
-|10 | 17 Jun | AI as Moderator, Facilitator, and Persona Simulator |
-|11 | 24 Jun | Evaluating AI-Supported Deliberation: Participation and Legitimacy |
-|12 | 08 Jul | Power, Contestability, and Ethical Risks of Deliberative AI |
-|13 | 15 Jul | Presentations |
+| 10 | 17 Jun | AI as Moderator, Facilitator, and Persona Simulator |
+| 11 | 24 Jun | Evaluating AI-Supported Deliberation: Participation and Legitimacy |
+| 12 | 08 Jul | Power, Contestability, and Ethical Risks of Deliberative AI |
+| 13 | 15 Jul | Presentations |
 
 
+---
 
-<h3>Generating Ideas</h3>
+## Schedule
 
-<table>
+<table cellpadding="1" cellspacing="0" style="line-height:0.6; border-collapse:collapse; font-size:0.9em; width:100%; table-layout:fixed;">
 <thead>
 <tr>
+<th>Phase</th>
 <th>Week</th>
-<th>Date (Wed)</th>
+<th style="white-space:nowrap;">Date</th>
+<th>Topic/Activity</th>
 <th>Workload</th>
-<th>Topic</th>
 </tr>
 </thead>
-<tbody>
+<tbody style="vertical-align:top; line-height:0.6;">
 <tr>
+<td rowspan="7">Generating<br>Ideas</td>
 <td>🟦 1</td>
-<td>08 Apr</td>
-<td>🟦🟦🟦⬜⬜</td>
+<td style="white-space:nowrap;">08&nbsp;Apr</td>
 <td>Introduction</td>
+<td style="white-space: nowrap;"><code>░░░░░░░░░░</code>&nbsp;0&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 2</td>
-<td>15 Apr</td>
-<td>🟦🟦🟦⬜⬜</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td style="white-space:nowrap;">15&nbsp;Apr</td>
+<td>Topics/Reading Papers</td>
+<td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 3</td>
-<td>22 Apr</td>
-<td>🟦🟦🟦🟩⬜</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td style="white-space:nowrap;">22&nbsp;Apr</td>
+<td>Topics/Reading Papers</td>
+<td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 4</td>
-<td>29 Apr</td>
-<td>🟦🟦🟦🟩⬜</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td style="white-space:nowrap;">29&nbsp;Apr</td>
+<td>Topics/Reading Papers</td>
+<td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 5</td>
-<td>06 May</td>
-<td>🟦🟦🟩🟩⬜</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td style="white-space:nowrap;">06&nbsp;May</td>
+<td>Topics/Reading Papers</td>
+<td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 6</td>
-<td>13 May</td>
-<td>🟦🟦🟩🟩⬜</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td style="white-space:nowrap;">13&nbsp;May</td>
+<td>Topics/Reading Papers</td>
+<td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 7</td>
-<td>20 May</td>
-<td>🟦🟦🟩🟩⬜</td>
-<td>Topics / Getting Ideas / Reading Papers</td>
+<td style="white-space:nowrap;">20&nbsp;May</td>
+<td>Topics/Reading Papers</td>
+<td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
-</tbody>
-</table>
-
-<h3>Scientific Contribution</h3>
-
-<table>
-<thead>
 <tr>
-<th>Week</th>
-<th>Date (Wed)</th>
-<th>Workload</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr>
+<td rowspan="4">Scientific<br>Contribution</td>
 <td>🟨 8</td>
-<td>27 May</td>
-<td>🟦🟩🟩🟩🟩</td>
+<td style="white-space:nowrap;">27&nbsp;May</td>
 <td>1:1 Feedback on Project Idea</td>
+<td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 9</td>
-<td>10 Jun</td>
-<td>🟦🟩🟩🟩🟩</td>
+<td style="white-space:nowrap;">10&nbsp;Jun</td>
 <td>Project Presentations (Introduction + Literature Section)</td>
+<td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 10</td>
-<td>17 Jun</td>
-<td>🟦🟦🟩🟩🟩</td>
+<td style="white-space:nowrap;">17&nbsp;Jun</td>
 <td>Results Clinic — What have you found out? Tell a story</td>
+<td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 11</td>
-<td>24 Jun</td>
-<td>🟦🟦🟩🟩🟩</td>
+<td style="white-space:nowrap;">24&nbsp;Jun</td>
 <td>Writing & Figures Clinic — Refining writing, title, and figure captions</td>
+<td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
-</tbody>
-</table>
-
-<h3>Marketing Your Idea</h3>
-
-<table>
-<thead>
 <tr>
-<th>Week</th>
-<th>Date (Wed)</th>
-<th>Workload</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr>
+<td rowspan="2">Marketing<br>Your Idea</td>
 <td>🟩 12</td>
-<td>08 Jul</td>
-<td>🟦🟦🟦🟩🟨</td>
+<td style="white-space:nowrap;">08&nbsp;Jul</td>
 <td>Feedback on Video Presentation & Slides / Online Post / GitHub Repo</td>
+<td style="white-space: nowrap;"><code>███████░░░░</code>&nbsp;12&nbsp;h</td>
 </tr>
 <tr>
 <td>🟩 13</td>
-<td>15 Jul</td>
-<td>🟦🟦🟦🟩🟨</td>
+<td style="white-space:nowrap;">15&nbsp;Jul</td>
 <td>Recording of Final Presentation</td>
-</tr>
-</tbody>
-</table>
-
-<h3>Post-Course Work</h3>
-
-<table>
-<thead>
-<tr>
-<th>Week</th>
-<th>Date (Wed)</th>
-<th>Workload</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>14</td>
-<td>—</td>
-<td>⬜⬜⬜⬜⬜</td>
-<td><i>Recommended break week — do not work on the project.</i></td>
+<td style="white-space: nowrap;"><code>███████░░░░</code>&nbsp;12&nbsp;h</td>
 </tr>
 <tr>
-<td>15</td>
-<td>—</td>
-<td>🟦🟦🟦🟩⬜</td>
+<td rowspan="2">Post-course</td>
+<td>⬜ 14</td>
+<td style="white-space:nowrap;">—</td>
+<td>Recommended break week — do not work on the project.</td>
+<td style="white-space: nowrap;"><code>░░░░░░░░░░</code>&nbsp;0&nbsp;h</td>
+</tr>
+<tr>
+<td>⬜ 15</td>
+<td style="white-space:nowrap;">—</td>
 <td>Final revision of the paper based on feedback and lessons from the course. Submit final version.</td>
+<td style="white-space: nowrap;"><code>███████░░░░</code>&nbsp;12&nbsp;h</td>
 </tr>
 </tbody>
 </table>
 
-<p><b>Workload legend:</b> lighter ← 🟦 → 🟩 → 🟨 → 🟧 → 🟥 heavier</p>
-<p><b>Approximate expected independent work:</b> Week 1–2: 8h, Week 3–4: 10h, Week 5–7: 14h, Week 8–9: 18h, Week 10–11: 16h, Week 12–13: 12h, Week 14: 0h, Week 15: 10h.</p>
+<p>7 ECTS ~ 210 h | class time ~20 h | independent work target ~190 h</p>
+
+
+---
+
+## Core Readings
+
+1. **Gallegos, I. et al. (2024). _Bias and Fairness in Large Language Models: A Survey._ Computational Linguistics.**  
+   https://direct.mit.edu/coli/article/50/3/1097/2471010/coli_a_00524
+
+2. **Conitzer, V. et al. (2024). _Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback._ arXiv preprint.**  
+   https://arxiv.org/abs/2404.10271
+
+3. **Zeginis, D., Patsouras, C.-F., Tambouris, E., & Tarabanis, K. (2025). _Review of AI Features to Support Mass Deliberations._ (EGOV 2025 proceedings).**  
+   https://dl.acm.org/doi/10.1007/978-3-032-01589-1_21
 
 ---
 
@@ -281,7 +188,6 @@ Short written notes to support careful reading and active participation. For eac
 
 These notes are not graded, but they are **required preparation** for seminar discussions, presentations, and the final paper.
 
-
 ### Discussant Role (graded, 30%)
 
 Each student serves once as a discussant for one core reading.
@@ -300,7 +206,6 @@ Each student serves once as a discussant for one core reading.
 - 5–8 minutes of guided discussion with prepared prompts  
 
 The goal is to foster **research-oriented and theory-aware discussion**, not to defend or critique the paper for its own sake.
-
 
 ### Research Paper Project (graded, 70%)
 
