@@ -32,37 +32,37 @@ Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 <tr>
 <td>🟦 2</td>
 <td style="white-space:nowrap;">15&nbsp;Apr</td>
-<td><a href="./docs/measuring_bias_in_AI.md">Defining and Measuring Fairness in AI</a></td>
+<td><a href="./docs/01_measuring_bias_in_AI.md">Defining and Measuring Fairness in AI</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 3</td>
 <td style="white-space:nowrap;">22&nbsp;Apr</td>
-<td><a href="./docs/measuring_bias_in_AI.md">Defining and Measuring Fairness in AI</a></td>
+<td><a href="./docs/01_measuring_bias_in_AI.md">Defining and Measuring Fairness in AI</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 4</td>
 <td style="white-space:nowrap;">29&nbsp;Apr</td>
-<td><a href="./docs/social_choice.md">Social Choice and AI Alignment</a></td>
+<td><a href="./docs/03_social_choice.md">Social Choice and AI Alignment</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 5</td>
 <td style="white-space:nowrap;">06&nbsp;May</td>
-<td><a href="./docs/social_choice.md">Social Choice and AI Alignment</a></td>
+<td><a href="./docs/03_social_choice.md">Social Choice and AI Alignment</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 6</td>
 <td style="white-space:nowrap;">13&nbsp;May</td>
-<td><a href="./docs/current_ethics_debates.md">Current Ethics Debates</a></td>
+<td><a href="./docs/05_current_ethics_debates.md">Current Ethics Debates</a></td>
 <td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 7</td>
 <td style="white-space:nowrap;">20&nbsp;May</td>
-<td><a href="./docs/LLMs_democracy.md">Democracy and LLMs</a></td>
+<td><a href="./docs/06_LLMs_democracy.md">Democracy and LLMs</a></td>
 <td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
 <tr>
@@ -122,29 +122,13 @@ Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 <p>7 ECTS ~ 210 h | class time ~20 h | independent work target ~190 h</p>
 
 
-GitHub Pages: [./docs/](./docs/)
 
-
-## Learning Goals
-
-- Research overview: Students will be able to systematically map and critically synthesize the current research literature on fairness, bias, and collective decision-making in AI, with a focus on large language models and emerging applications.
-- Theory development: Students will be able to critically evaluate and develop normative and theoretical arguments about fairness, alignment, and democratic legitimacy in AI systems, engaging with competing perspectives and identifying conceptual tensions.
-- Research design: Students will be able to critically assess and justify research designs used to study fairness and deliberation in AI, including the choice of evaluation metrics, benchmarks, and qualitative or quantitative methods, and reflect on their ethical and societal implications.
-
----
-
-## Course Evaluation and Format
-
-- Hands-on analysis of models, metrics, and datasets  
-- Student presentations and written papers
-
----
 
 ## Activities and Assessment
 
-### Reading Notes (ungraded, required)
+### 1. Reading Notes (ungraded)
 
-Short written notes to support careful reading and active participation. For each core reading, students should briefly address:
+Short written notes to support careful reading and active participation. For each core reading, students should briefly (1 sentence each) address:
 
 - **Core contribution:** What problem does the paper address, and how does it contribute to current debates on AI fairness, alignment, or deliberation?
 - **Conceptual and methodological approach:** Which key concepts, assumptions, or evaluation strategies does the paper rely on?
@@ -153,9 +137,11 @@ Short written notes to support careful reading and active participation. For eac
 
 These notes are not graded, but they are **required preparation** for seminar discussions, presentations, and the final paper.
 
-### Discussant Role (graded, 30%)
+---
 
-Each student serves once as a discussant for one core reading.
+### 2. Discussant Role (graded, 30%)
+
+Each student serves once (or twice, depending on class size) as a discussant for one core reading.
 
 **Responsibilities:**
 - Read the assigned paper in depth, including its conceptual framework, assumptions, and evaluation choices.
@@ -168,11 +154,11 @@ Each student serves once as a discussant for one core reading.
 
 **Format:**
 - 12–15 minute presentation  
-- 5–8 minutes of guided discussion with prepared prompts  
+- 5–8 minutes of guided discussion
 
-The goal is to foster **research-oriented and theory-aware discussion**, not to defend or critique the paper for its own sake.
+---
 
-### Research Paper Project (graded, 70%)
+### 3. Research Paper Project (graded, 70%)
 
 The final paper is the core component of the seminar. Students work individually or in small groups to develop an original research paper that builds on the course literature.
 
@@ -190,11 +176,3 @@ The final paper is the core component of the seminar. Students work individually
   - discussion of findings, limitations, and implications.
 
 Empirical replication or original data collection is **optional** and not required; strong conceptual, theoretical, or design-oriented contributions are equally valid.
-
-**Deliverables & milestones:**
-- Project proposal presentation (ungraded)
-- Writing outline checkpoint (ungraded)
-- Final presentation (graded)
-- Final paper submission (graded)
-
-Clear and rigorous communication—through writing, argumentation, and presentation—is considered an essential component of the project.
