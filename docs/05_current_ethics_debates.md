@@ -28,6 +28,7 @@ Discussion of privacy risks in LLMs, including training data concerns, prompt le
 - https://www.linkedin.com/feed/update/urn:li:activity:7433599833195593728  
 - https://x.com/cryptopunk7213/status/2029699441226129479  
 - https://www.faithfamilytech.org/moral-guardrails-statement
+- https://www.linkedin.com/feed/update/urn:li:activity:7437142232018862080?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7437142232018862080%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 ## Labor market impacts of AI
 - https://cdn.sanity.io/files/4zrzovbb/website/dc7bcd0224644fce97cecb7f9e68dcd8434b35f1.pdf
