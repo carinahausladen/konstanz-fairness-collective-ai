@@ -5,6 +5,7 @@ Wednesdays, 3:15–4:45 PM
 ---
 
 Zeus: https://zeus.uni-konstanz.de/hioserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s9
+
 Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 
 
