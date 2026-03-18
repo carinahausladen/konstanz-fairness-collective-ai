@@ -35,6 +35,10 @@ Fairness, for whom?
 ---
 ## 📖 Readings
 
+- Impacts of Aggregation on Model Diversity and Consumer Utility; https://arxiv.org/abs/2602.23293
+
+- Cultivating Pluralism In Algorithmic Monoculture: The Community Alignment Dataset; https://arxiv.org/abs/2507.09650
+
 - Kirk, H. R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., & Hale, S. A. (2024).  
   *The PRISM Alignment Dataset: What participatory, representative and individualised human feedback reveals about the subjective and multicultural alignment of large language models.*  
   arXiv preprint.  
@@ -72,19 +76,9 @@ Fairness, for whom?
 ---
 ## 📊 Project Ideas & Datasets
 
-1. Aggregation and alignment preferences (PRISM dataset, Community Alignment Dataset)
-One direction would be to study alignment preferences using the PRISM dataset and compare different aggregation methods (e.g., majority voting, proportional or group-balanced aggregation). A key contribution would be to analyze how these aggregation choices affect outcomes across sociodemographic groups.
+1. End-to-End Welfare in Multi-Model Ecosystems
 
-https://huggingface.co/datasets/HannahRoseKirk/prism-alignment
-
-2. Aggregation under polarization (X Community Notes)
-Another direction would be to study X’s Community Notes system, which is consensus-oriented: when ratings are polarized, notes tend to disappear. Using the publicly available Community Notes data, one could evaluate alternative aggregation methods and examine how they affect note visibility and stability under polarization.
-
-https://github.com/twitter/communitynotes  
-https://communitynotes.x.com/guide/en/under-the-hood/download-data
-
-Related Paper: 
-https://arxiv.org/abs/2510.12559
-https://arxiv.org/abs/2509.09956
-https://arxiv.org/abs/2502.13322
-
+Develope an end-to-end view of welfare in AI ecosystems by connecting the supply side and the demand side.
+On the supply side, the question is which incentives encourage firms to build differentiated models rather than converging on a homogeneous set of systems.
+On the demand side, the question is how a platform, provider, or society should select a menu of models so that overall welfare is high while minority preferences are not ignored.
+A possible contribution would be to study how producer incentives and menu-selection rules interact, and whether combining diversity-inducing supply incentives with proportional or welfare-aware selection leads to better outcomes for heterogeneous users.
