@@ -119,8 +119,7 @@ Wednesdays, 3:15–4:45 PM
 <p>7 ECTS ~ 210 h: class time ~20 h + independent work target ~190 h</p>
 
 
-## Slides
-https://slides.com/carinah/fairness-collective-decisions-ai
+Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 
 ## Activities
 
