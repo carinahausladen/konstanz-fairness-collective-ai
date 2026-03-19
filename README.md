@@ -66,13 +66,13 @@ Wednesdays, 3:15–4:45 PM
 <td rowspan="4">Scientific<br>Contribution</td>
 <td>🟨 8</td>
 <td style="white-space:nowrap;">27&nbsp;May</td>
-<td>1:1 Feedback on Project Idea | Guest Lecture Sachit Mahajan</td>
+<td>1:1 Feedback on Project Idea</td>
 <td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 9</td>
 <td style="white-space:nowrap;">10&nbsp;Jun</td>
-<td>Project Pitch (Introduction + Literature Section)</td>
+<td>Project Pitch (Introduction + Literature Section) | Guest Lecture Sachit Mahajan</td>
 <td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
