@@ -4,10 +4,6 @@ Wednesdays, 3:15–4:45 PM
 
 ---
 
-Zeus: https://zeus.uni-konstanz.de/hioserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s9
-
-Slides: https://slides.com/carinah/fairness-collective-decisions-ai
-
 
 ## Schedule
 
@@ -123,7 +119,8 @@ Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 <p>7 ECTS ~ 210 h: class time ~20 h + independent work target ~190 h</p>
 
 
-
+## Slides
+https://slides.com/carinah/fairness-collective-decisions-ai
 
 ## Activities
 
