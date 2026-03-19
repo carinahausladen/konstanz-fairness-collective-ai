@@ -129,7 +129,7 @@ Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 
 ### 1. Reading Notes (ungraded)
 
-For each reading, you should briefly (1 sentence each, via [![Overleaf](https://img.shields.io/badge/Overleaf-Project-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/7678674488hfmsgbmsyszc#8f42d3)) address:
+For each reading, you should briefly (1 sentence each, via [![Overleaf](https://img.shields.io/badge/Overleaf-Project-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/7678674488hfmsgbmsyszc#8f42d3)):
 
 - What is one specific idea or result you found interesting, and why?
 - What is one point that remains unclear? What specific question would you ask in class?
