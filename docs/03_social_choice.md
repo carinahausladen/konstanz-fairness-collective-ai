@@ -66,10 +66,18 @@ Fairness, for whom?
   [Link](https://doi.org/10.48550/arXiv.2407.17482) 🎧 ~27:17 min (1.5× estimated listening time)
 
 
-### Optional 
+### Optional
 
 - Yang et al. (2024) — [Link](https://dl.acm.org/doi/full/10.1145/3665332)
 - Tasioulas (2022) — [Link](https://direct.mit.edu/daed/article/151/2/232/110615/Artificial-Intelligence-Humanistic-Ethics)
+
+### Technical Background
+
+- Krause, A., & Hübotter, J. (2025).
+  *Probabilistic Artificial Intelligence* (ETH Zürich lecture notes), **Chapter 12.7: Learning from Preferences**.
+  [arXiv:2502.05244](https://arxiv.org/pdf/2502.05244)
+
+  This chapter covers the technical machinery behind RLHF and Direct Preference Optimization (DPO) — the same methods discussed normatively throughout this week's readings. Where papers like González Barman et al. ask *whose values* RLHF encodes, this chapter explains *how* raw human preference comparisons are actually turned into model behavior. Reading it makes the social choice critique more precise: the aggregation step (turning many individual preferences into one reward signal) is where majority preferences dominate and minority voices are suppressed. Recommended for students who want to understand why the alignment problem bites where it does.
 
 
 
