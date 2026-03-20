@@ -43,6 +43,9 @@ We will also discuss the relationship between fairness and causality, including:
 - limitations of observational data
 - Simpson’s paradox
 
+# Auditing a real world AI system 
+https://www.eticas.ai/case-studies/auditing-ai-enabled-career-advisory-platform
+
 ## 📖 Readings
 
 - Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024).  

@@ -23,7 +23,7 @@ Wednesdays, 3:15–4:45 PM
 <td rowspan="7">Generating<br>Ideas</td>
 <td>🟦 1</td>
 <td style="white-space:nowrap;">08&nbsp;Apr</td>
-<td>Introduction</td>
+<td><a href="./docs/05_current_ethics_debates.md">Current Ethics Debates</a></td>
 <td style="white-space: nowrap;"><code>░░░░░░░░░░</code>&nbsp;0&nbsp;h</td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ Wednesdays, 3:15–4:45 PM
 <tr>
 <td>🟦 6</td>
 <td style="white-space:nowrap;">13&nbsp;May</td>
-<td><a href="./docs/05_current_ethics_debates.md">Current Ethics Debates</a></td>
+<td><a href="./docs/03_social_choice.md">Economic Impacts of AI</a></td>
 <td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
 <tr>

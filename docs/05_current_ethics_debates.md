@@ -6,36 +6,47 @@ permalink: /week-04/
 
 This week we examine several current debates in AI ethics, focusing on the societal impacts of large language models (LLMs), their governance, and their broader economic and environmental implications.
 
+---
+
+# Hopes and Fears of AI users
+- https://www.anthropic.com/features/81k-interviews
+
+---
+
 # LLMs, AI, and Electricity
-Discussion of the growing energy demands of large-scale AI systems and the debate around their environmental impact.
+The energy demands of large-scale AI systems are under growing scrutiny. This debate examines the environmental costs of training and running LLMs.
+- [Sam Altman is tired of "unfair" critiques about AI's energy use — Fast Company](https://www.fastcompany.com/91496890/sam-altman-is-tired-of-unfair-critiques-about-ais-energy-use-climate-experts-say-his-defensive-stance-is-misguided)
 
-# The Anthropic–GPT “Department of War” Controversy
-Examination of recent debates around AI companies, military collaboration, and the ethical implications of AI systems being used in defense contexts.
-
-# Should Consumers Switch from GPT to Claude?
-Discussion about differences in alignment approaches, safety strategies, and whether users should consider switching between AI providers based on ethical considerations.
-
-# AI Replacing Jobs
-Exploration of the potential labor market impacts of AI systems and ongoing debates about automation, productivity, and job displacement.
+---
 
 # User Privacy and LLMs
-Discussion of privacy risks in LLMs, including training data concerns, prompt leakage, and potential exposure of personal or sensitive information.
+How do AI companies use your conversations? All major AI providers collect and train on user data by default — often without adequate disclosure, sometimes retaining data indefinitely, and in some cases training on children's chats. This section also covers the privacy risks of always-on AI hardware like smart glasses.
 
-# Reading List
+- [Privacy policies of six major AI developers (arXiv)](https://arxiv.org/pdf/2509.05382)
+- [Meta smart glasses: workers in Kenya are watching your most intimate moments (LinkedIn)](https://www.linkedin.com/posts/adriaanvanrossum_workers-in-kenya-are-watching-your-most-intimate-activity-7435221333518585856-Rjgw?utm_source=share&utm_medium=member_desktop&rcm=ACoAABHhq_gBf_vy_9DCb2bk4j-CGRd6KdTALnc)
+- [Funny visualization (LinkedIn comment)](https://www.linkedin.com/feed/update/urn:li:activity:7435221333518585856?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7435221333518585856%2C7435288621559066625%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287435288621559066625%2Curn%3Ali%3Aactivity%3A7435221333518585856%29)
+- https://x.com/alex_prompter/status/2028033835993112919
+- [Mass Surveillance via AI in Europe](https://www.linkedin.com/posts/andy-yen-03a9676_aus-angst-vor-zu-viel-%C3%BCberwachung-proton-ceo-activity-7433599833195593728-QAlu?utm_source=share&utm_medium=member_desktop&rcm=ACoAABHhq_gBf_vy_9DCb2bk4j-CGRd6KdTALnc)
+---
 
-## Public discussions and commentary
-- https://www.linkedin.com/feed/update/urn:li:activity:7435583733476433920  
-- https://www.linkedin.com/feed/update/urn:li:activity:7433599833195593728  
-- https://x.com/cryptopunk7213/status/2029699441226129479  
-- https://www.faithfamilytech.org/moral-guardrails-statement
-- https://www.linkedin.com/feed/update/urn:li:activity:7437142232018862080?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7437142232018862080%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+# The Anthropic "Department of War" Controversy
+The U.S. Department of Defense designated Anthropic as a "supply chain risk" and pressured the company to remove ethical safeguards — including protections against mass surveillance and autonomous weapons. 
 
-## Labor market impacts of AI
-- https://cdn.sanity.io/files/4zrzovbb/website/dc7bcd0224644fce97cecb7f9e68dcd8434b35f1.pdf
+- [Anthropic's public statement (LinkedIn)](https://www.linkedin.com/posts/anthropicresearch_statement-on-comments-from-the-secretary-activity-7433337757906923520-p2nH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABHhq_gBf_vy_9DCb2bk4j-CGRd6KdTALnc)
+- [Faith Family Tech Network: Moral Guardrails Statement](https://www.faithfamilytech.org/moral-guardrails-statement)
 
-## User privacy and LLMs
-- https://x.com/alex_prompter/status/2028033835993112919  
-- https://arxiv.org/pdf/2509.05382
+---
 
-## Energy use and AI
-- https://www.fastcompany.com/91496890/sam-altman-is-tired-of-unfair-critiques-about-ais-energy-use-climate-experts-say-his-defensive-stance-is-misguided
+# Is AI ethics a consumer responsibility?
+https://www.linkedin.com/posts/ayajaff_i-feel-uncomfortable-writing-this-already-activity-7435583733476433920-n6IF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABHhq_gBf_vy_9DCb2bk4j-CGRd6KdTALnc
+
+---
+
+# Vibe Research
+An emerging approach to AI-assisted academic research. "Vibe research" uses AI agents to manage the full research lifecycle — synchronizing code with documentation, automating paper writing from informal inputs (chat logs, voice notes), and maintaining reproducibility through a "shadow paper" that acts as a falsifiable contract alongside the code.
+
+- https://x.com/YanboZhang3/status/2017365847589695530
+- [vibe-research-skill (GitHub)](https://github.com/Zhangyanbo/vibe-research-skill)
+- [vibe-paper-writing (GitHub)](https://github.com/Zhangyanbo/vibe-paper-writing)
+
+---
