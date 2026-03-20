@@ -42,9 +42,9 @@ https://www.linkedin.com/posts/ayajaff_i-feel-uncomfortable-writing-this-already
 
 ---
 
-# Vibe Research
-An emerging approach to AI-assisted academic research. "Vibe research" uses AI agents to manage the full research lifecycle — synchronizing code with documentation, automating paper writing from informal inputs (chat logs, voice notes), and maintaining reproducibility through a "shadow paper" that acts as a falsifiable contract alongside the code.
+# Vibe Research and its failures
 
+- [Agents of Chaos](https://arxiv.org/pdf/2602.20021)
 - https://x.com/YanboZhang3/status/2017365847589695530
 - [vibe-research-skill (GitHub)](https://github.com/Zhangyanbo/vibe-research-skill)
 - [vibe-paper-writing (GitHub)](https://github.com/Zhangyanbo/vibe-paper-writing)
