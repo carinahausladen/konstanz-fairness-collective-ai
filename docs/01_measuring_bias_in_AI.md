@@ -25,7 +25,14 @@ We will review fairness metrics across three categories:
 - probability-based metrics
 - generated-text metrics
 
-### 3. Bias evaluation datasets
+### 3. Calibration and Uncertainty
+
+Probability-based fairness metrics rely on calibrated predictions: $\Pr(Y = 1 \mid \widehat{p} = p) = p$
+If calibration holds overall but differs across demographic groups, this gap is a measurable form of bias.
+We distinguish between Aleatoric (irreducible noise) vs. epistemic (uncertainty due to limited data) uncertainty
+Underrepresented groups tend to have higher epistemic uncertainty, leading to less reliable predictions. 
+
+### 4. Bias evaluation datasets
 
 We will examine commonly used datasets and evaluation setups for measuring bias:
 
@@ -36,22 +43,15 @@ We will examine commonly used datasets and evaluation setups for measuring bias:
 - sentence completions (BOLD)
 - question answering (BBQ)
 
-### 4. Fairness, causality, and data limitations
+### 5. Fairness, causality, and data limitations
 
 We will also discuss the relationship between fairness and causality, including:
 
 - limitations of observational data
 - Simpson’s paradox
 
-# Auditing a real world AI system 
-https://www.eticas.ai/case-studies/auditing-ai-enabled-career-advisory-platform
 
-## 📖 Readings
-
-- Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024).  
-*Bias and fairness in large language models: A survey.*  
-Computational Linguistics, 50(3), 1097–1179.  
-[Link](https://doi.org/10.1162/coli_a_00524) 🎧 ~1:12:48 min (1.5× estimated listening time)
+## 📖 Readings for Presentations
 - Bailey, A. H. (2022).  
 *Based on billions of words on the internet, people = men.*  
 Science Advances.  
@@ -64,12 +64,16 @@ Proceedings of the National Academy of Sciences.
 *Investigating intersectional bias in large language models using confidence disparities in coreference resolution.*
 Proceedings of COLM 2025.
 [Link](https://arxiv.org/abs/2508.07111) 🎧 ~42:00 min (1.5× estimated listening time)
+- Eticas.ai (2026)  
+  *Auditing an AI-enabled career advisory platform*  
+  https://www.eticas.ai/case-studies/auditing-ai-enabled-career-advisory-platform
 
-### Technical Background
+### Technical Background Readings
 
 - Krause, A., & Hübotter, J. (2025).
   *Probabilistic Artificial Intelligence* (ETH Zürich lecture notes), **Chapter 7.4: Calibration** and **Chapter 2.2: Aleatoric and Epistemic Uncertainty**.
   [arXiv:2502.05244](https://arxiv.org/pdf/2502.05244)
-
-  Two sections are worth reading alongside this week's material. **Calibration** (Ch. 7.4) is the technical foundation for probability-based fairness metrics: a model is calibrated if its confidence scores reflect true outcome probabilities. When calibration holds overall but breaks down for specific demographic groups, that gap *is* a bias — and a measurable one. **Aleatoric vs. epistemic uncertainty** (Ch. 2.2) offers a useful diagnostic framing: aleatoric uncertainty is irreducible noise, while epistemic uncertainty reflects lack of data. Models tend to be more epistemically uncertain for underrepresented groups — not by accident, but because they appear less in training data. This reframes poor performance on minority groups as a data representation problem, not just a model flaw.
-
+  - Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024).  
+  *Bias and fairness in large language models: A survey.*  
+  Computational Linguistics, 50(3), 1097–1179.  
+  [Link](https://doi.org/10.1162/coli_a_00524) 🎧 ~1:12:48 min (1.5× estimated listening time)
