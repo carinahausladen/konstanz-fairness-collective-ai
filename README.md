@@ -66,32 +66,32 @@ Wednesdays, 3:15–4:45 PM
 <td rowspan="4">Scientific<br>Contribution</td>
 <td>🟨 8</td>
 <td style="white-space:nowrap;">27&nbsp;May</td>
-<td>1:1 Feedback on Project Idea | Guest Lecture Thomas Müller</td>
+<td>Guest Lecture Thomas Müller </td>
 <td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 9</td>
 <td style="white-space:nowrap;">10&nbsp;Jun</td>
-<td>Project Pitch (Introduction + Literature Section) | Guest Lecture Sachit Mahajan</td>
+<td>Guest Lecture Sachit Mahajan</td>
 <td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 10</td>
 <td style="white-space:nowrap;">17&nbsp;Jun</td>
-<td>Results Clinic — What have you found out? Tell a story</td>
+<td>Presentations: Preliminary Results</td>
 <td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td>🟨 11</td>
 <td style="white-space:nowrap;">24&nbsp;Jun</td>
-<td>Writing & Figures Clinic</td>
+<td>1:1 Results, Writing & Figures Clinic</td>
 <td style="white-space: nowrap;"><code>██████████</code>&nbsp;18&nbsp;h</td>
 </tr>
 <tr>
 <td rowspan="2">Present<br>Your Idea</td>
 <td>🟩 12</td>
 <td style="white-space:nowrap;">08&nbsp;Jul</td>
-<td>Feedback on Presentation, Slides, Post, GitHub Repo</td>
+<td>1:1 Feedback on Presentation, Slides, Post, GitHub Repo</td>
 <td style="white-space: nowrap;"><code>███████░░░░</code>&nbsp;12&nbsp;h</td>
 </tr>
 <tr>
@@ -149,12 +149,13 @@ You may work individually or in small groups.
 
 Only final paper (~8 pages / 4,000–8,000 words) will be graded. In addition, submitting the following milestones is mandatory:
 
-- **Week 8:** Submit your project idea
-- **Week 9:** Present your research narrative and identify the literature gap  
-- **Week 10:** Present initial results, explain their relevance, and set up a GitHub repository  
+- **Week 8:** Abstract of your project idea
+- **Week 9:** Draft the introduction and literature gap  
+- **Week 10:** Present your initial results to the class; set up a GitHub repo
 - **Week 11:** Submit a first full draft  
-- **Week 12:** Prepare slides, a practice presentation, and a social media-style summary (no need to publish)
+- **Week 12:** Prepare slides, a practice presentation, and a social media-style summary
 - **Week 13:** Final presentation
+- **Week 15:** Submit final paper and GitHub repo
 
 All milestones must be submitted as GitHub Issues.
 Title format: Week X – [Your Name]
