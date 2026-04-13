@@ -68,6 +68,8 @@ Proceedings of COLM 2025.
   *Auditing an AI-enabled career advisory platform*  
   https://www.eticas.ai/case-studies/auditing-ai-enabled-career-advisory-platform
 
+- [Agentic Misalignment: How LLMs Could Be Insider Threats](https://arxiv.org/abs/2510.05179)
+
 ### Technical Background Readings
 
 - Krause, A., & Hübotter, J. (2025).
