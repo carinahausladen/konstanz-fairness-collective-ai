@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Current Ethics Debates"
-permalink: /week-04/
+permalink: /current-ethics/
 ---
 
 # The Department of Defense Controversy

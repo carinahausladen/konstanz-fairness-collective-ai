@@ -2,3 +2,7 @@
 docs/_site/
 _site/
 .jekyll-cache/
+
+# PDFs and internal notes — papers folder is local-only
+papers/
+.idea/
