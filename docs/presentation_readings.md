@@ -6,23 +6,19 @@ permalink: /presentation-readings/
 
 # Presentation Readings
 
-22 readings across the six reading weeks. Students pick **one** to present.
+22 readings across five reading weeks. Students pick **one** to present.
 
 Weeks are paired when a block spans two sessions. Readings within a paired block are split by theme — pick from the week you are presenting in.
 
 ---
 
-## Week 2 · 15 Apr — Defining and Measuring Fairness in AI *(part 1: representational bias foundations)*
+## Week 3 · 22 Apr — Defining and Measuring Fairness in AI
 
 1. [Based on billions of words on the internet, people = men (2022)](https://www.science.org/doi/full/10.1126/sciadv.abm2463) — Bailey, Williams & Cimpian
    *Foundation: bias is already present in the corpus, upstream of any model. Embedding geometry on 630B tokens.*
 
 2. [Explicitly unbiased large language models still form biased associations (2025)](https://doi.org/10.1073/pnas.2416228122) — Bai, Wang, Sucholutsky & Griffiths
    *Methodological pivot: RLHF'd models pass explicit tests but still show pervasive implicit bias that predicts downstream decisions.*
-
----
-
-## Week 3 · 22 Apr — Defining and Measuring Fairness in AI *(part 2: from outcome bias to agentic misalignment)*
 
 3. [Measuring gender and racial biases in large language models: Intersectional evidence from automated resume evaluation (2025)](https://academic.oup.com/pnasnexus/article/4/3/pgaf089/8098718) — An, Huang, Lin & Tai
    *Concrete intersectional audit: ~361k resumes × 5 LLMs. Non-additive effects — female candidates favored, Black males disadvantaged. Bridge reading: outcome-level bias in a deployed hiring context.*

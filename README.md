@@ -29,13 +29,13 @@ Wednesdays, 3:15–4:45 PM
 <tr>
 <td>🟦 2</td>
 <td style="white-space:nowrap;">15&nbsp;Apr</td>
-<td><a href="./docs/02_measuring_bias_in_AI.md">Defining and Measuring Fairness in AI</a></td>
+<td><a href="./docs/week2_recap.md">Defining and Measuring Fairness in AI — Recap</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 3</td>
 <td style="white-space:nowrap;">22&nbsp;Apr</td>
-<td><a href="./docs/02_measuring_bias_in_AI.md">Defining and Measuring Fairness in AI</a></td>
+<td><a href="./docs/week3_fundamentals.md">Defining and Measuring Fairness in AI — Fundamentals</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>

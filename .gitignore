@@ -6,3 +6,10 @@ _site/
 # PDFs and internal notes — papers folder is local-only
 papers/
 .idea/
+
+# Internal organisation — names, enrollment, presenter roster
+orga/
+
+# Local-only working material — not on GitHub
+scripts/
+slides/
