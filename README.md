@@ -23,43 +23,43 @@ Wednesdays, 3:15–4:45 PM
 <td rowspan="7">Generating<br>Ideas</td>
 <td>🟦 1</td>
 <td style="white-space:nowrap;">08&nbsp;Apr</td>
-<td><a href="./docs/01_current_ethics_debates.md">Current Ethics Debates</a></td>
+<td><a href="./docs/01.md">Current Ethics Debates</a></td>
 <td style="white-space: nowrap;"><code>░░░░░░░░░░</code>&nbsp;0&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 2</td>
 <td style="white-space:nowrap;">15&nbsp;Apr</td>
-<td><a href="./docs/week2_recap.md">Defining and Measuring Fairness in AI — Recap</a></td>
+<td><a href="./docs/02.md">Defining and Measuring Fairness in AI — Recap</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 3</td>
 <td style="white-space:nowrap;">22&nbsp;Apr</td>
-<td><a href="./docs/week3_fundamentals.md">Defining and Measuring Fairness in AI — Fundamentals</a></td>
+<td><a href="./docs/03.md">Defining and Measuring Fairness in AI — Fundamentals</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 4</td>
 <td style="white-space:nowrap;">29&nbsp;Apr</td>
-<td><a href="./docs/03_social_choice.md">Social Choice and AI Alignment</a></td>
+<td><a href="./docs/04.md">Social Choice and AI Alignment</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 5</td>
 <td style="white-space:nowrap;">06&nbsp;May</td>
-<td><a href="./docs/03_social_choice.md">Social Choice and AI Alignment</a></td>
+<td><a href="./docs/05.md">Social Choice and AI Alignment</a></td>
 <td style="white-space: nowrap;"><code>████░░░░░░</code>&nbsp;8&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 6</td>
 <td style="white-space:nowrap;">13&nbsp;May</td>
-<td><a href="./docs/04_economic_impacts.md">Economic Impacts of AI</a></td>
+<td><a href="./docs/06.md">Economic Impacts of AI</a></td>
 <td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
 <tr>
 <td>🟦 7</td>
 <td style="white-space:nowrap;">20&nbsp;May</td>
-<td><a href="./docs/05_LLMs_democracy.md">Democracy and LLMs</a></td>
+<td><a href="./docs/07.md">Democracy and LLMs</a></td>
 <td style="white-space: nowrap;"><code>████████░░</code>&nbsp;14&nbsp;h</td>
 </tr>
 <tr>
