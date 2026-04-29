@@ -3,6 +3,11 @@ docs/_site/
 _site/
 .jekyll-cache/
 
+# API keys and other secrets — never commit
+notebooks/lynch_agentic_misalignment/.env
+.env.local
+*.env
+
 # PDFs and internal notes — papers folder is local-only
 papers/
 .idea/
