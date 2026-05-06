@@ -4,9 +4,15 @@ _site/
 .jekyll-cache/
 
 # API keys and other secrets — never commit
-notebooks/lynch_agentic_misalignment/.env
+notebooks/03_lynch_agentic_misalignment/.env
 .env.local
 *.env
+
+# Downloaded datasets — re-downloadable from HuggingFace, do not commit
+notebooks/*/data/
+
+# Jupyter auto-checkpoints
+.ipynb_checkpoints/
 
 # PDFs and internal notes — papers folder is local-only
 papers/
