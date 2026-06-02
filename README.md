@@ -131,6 +131,9 @@ Slides: https://slides.com/carinah/fairness-collective-decisions-ai
 - AI can help humans find common ground in democratic deliberation, `Tessler 2024`
 - Political Bias in Large Language Models: A Case Study on the 2025 German Federal Election, `Kurtulus 2025`
 
+
+---
+
 ## Activities
 
 ### 1. Reading Notes (ungraded)
@@ -141,16 +144,12 @@ For each reading, you should briefly (1 sentence each, via [![Overleaf](https://
 - What is one point that remains unclear? What specific question would you ask in class?
 - How could this paper be extended? For example, could its methods be applied in a different context? Can its data be analyzed in a different way?
 
----
-
 ### 2. Discussant Role (graded, 30%)
 
 - You will serve once (or twice, depending on class size) as a discussant for your chosen reading(s).
 - Your role is to help the class understand the paper in depth and to generate ideas for replication or extension.
 - You will give a short (10–15 min) presentation and lead a brief (5–8 min) discussion.
 
-
----
 
 ### 3. Research Project (graded, 70%)
 
