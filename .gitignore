@@ -3,7 +3,7 @@ docs/_site/
 _site/
 .jekyll-cache/
 
-# API keys and other secrets — never commit
+# API keys 
 notebooks/03_lynch_agentic_misalignment/.env
 .env.local
 *.env
@@ -14,13 +14,13 @@ notebooks/*/data/
 # Jupyter auto-checkpoints
 .ipynb_checkpoints/
 
-# PDFs and internal notes — papers folder is local-only
+# PDFs 
 papers/
 .idea/
 
-# Internal organisation — names, enrollment, presenter roster
+# Internal organisation 
 orga/
 
-# Local-only working material — not on GitHub
+# Local-only working material 
 scripts/
 slides/
