@@ -165,6 +165,3 @@ Only final paper (~8 pages / 4,000–8,000 words) will be graded. In addition, s
 - **Jul 08:** Prepare slides, a practice presentation, and a social media-style summary
 - **Jul 15:** Final presentation
 - **Aug 15:** Submit final paper and GitHub repo
-
-All milestones must be submitted as GitHub Issues.
-Title format: Week X – [Your Name]
