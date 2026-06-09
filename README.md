@@ -156,7 +156,7 @@ For each reading, you should briefly (1 sentence each, via [![Overleaf](https://
 Your goal is to develop an original research paper that builds on the course literature.
 You may work individually or in small groups.  
 
-Only final paper (~8 pages / 4,000–8,000 words) will be graded. In addition, submitting the following milestones is mandatory:
+Only final paper (~8 pages / 5,000–8,000 words, excluding references) will be graded. In addition, submitting the following milestones is mandatory:
 
 - **May 27:** Abstract of your project idea
 - **Jun 10:** Draft the introduction and literature gap  
