@@ -59,7 +59,7 @@ Wednesdays, 3:15–4:45 PM
 <td><a href="./docs/07.md">Democracy and LLMs</a></td>
 </tr>
 <tr>
-<td rowspan="4">Scientific<br>Contribution</td>
+<td rowspan="5">Scientific<br>Contribution</td>
 <td>🟨 8</td>
 <td style="white-space:nowrap;">27&nbsp;May</td>
 <td><a href="./docs/08.md">Guest Lecture: Thomas Müller</a></td>
@@ -77,16 +77,21 @@ Wednesdays, 3:15–4:45 PM
 <tr>
 <td>🟨 11</td>
 <td style="white-space:nowrap;">24&nbsp;Jun</td>
-<td>1:1 Results, Writing & Figures Clinic</td>
+<td>1:1 Feedback on Results &amp; Open Questions</td>
+</tr>
+<tr>
+<td>🟨 12</td>
+<td style="white-space:nowrap;">01&nbsp;Jul</td>
+<td>1:all Writing &amp; Figures Clinic</td>
 </tr>
 <tr>
 <td rowspan="2">Present<br>Your Idea</td>
-<td>🟩 12</td>
+<td>🟩 13</td>
 <td style="white-space:nowrap;">08&nbsp;Jul</td>
 <td>1:1 Feedback on Presentation, Slides, Post, GitHub Repo</td>
 </tr>
 <tr>
-<td>🟩 13</td>
+<td>🟩 14</td>
 <td style="white-space:nowrap;">15&nbsp;Jul</td>
 <td>Final Presentation</td>
 </tr>
@@ -161,7 +166,8 @@ Only final paper (~8 pages / 5,000–8,000 words, excluding references) will be 
 - **May 27:** Abstract of your project idea
 - **Jun 10:** Draft the introduction and literature gap  
 - **Jun 17:** Present your initial results to the class; set up a GitHub repo
-- **Jun 24:** Submit a first full draft  
+- **Jun 24:** Submit a first full draft
+- **Jul 01:** Complete draft with all figures, tables, captions, and table notes
 - **Jul 08:** Prepare slides, a practice presentation, and a social media-style summary
 - **Jul 15:** Final presentation
 - **Aug 15:** Submit final paper and GitHub repo
