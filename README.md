@@ -171,3 +171,10 @@ Only final paper (~8 pages / 5,000–8,000 words, excluding references) will be 
 - **Jul 08:** Prepare slides, a practice presentation, and a social media-style summary
 - **Jul 15:** Final presentation
 - **Aug 15:** Submit final paper and GitHub repo
+
+---
+
+## Student Projects
+
+- [Are Automated Landlords Discriminatory? Evidence from a Randomized Correspondence Study of Large Language Models](https://github.com/lisannedoll/Fairness-and-Collective-Decision-Making-in-AI-Project-)
+- [How LLMs Feel About Applicants: Capturing Social Intuition as Vectors](https://github.com/JorgeLastraCerda/social-intuition-vectors)
