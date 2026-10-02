@@ -1,7 +1,7 @@
 # Fairness and Collective Decision-Making in AI
 **University of Konstanz · Summer Semester 2026**
 Wednesdays, 3:15–4:45 PM
-7 ECTS ~ 210 h: class time ~20 h + independent work target ~190 h
+7 ECTS
 ---
 
 
@@ -11,7 +11,6 @@ Wednesdays, 3:15–4:45 PM
 <table cellpadding="1" cellspacing="0" style="line-height:0.6; border-collapse:collapse; font-size:0.9em; width:100%; table-layout:fixed;">
 <thead>
 <tr>
-<th>Topics</th>
 <th style="width:3em;">Week</th>
 <th style="width:4.5em; white-space:nowrap;">Date</th>
 <th>Topic/Activity</th>
@@ -19,13 +18,11 @@ Wednesdays, 3:15–4:45 PM
 </thead>
 <tbody style="vertical-align:top; line-height:0.6;">
 <tr>
-<td>I · Current<br>Ethics Debates</td>
 <td>🟦 1</td>
 <td style="white-space:nowrap;">08&nbsp;Apr</td>
 <td><a href="./docs/01.md">Current Ethics Debates</a></td>
 </tr>
 <tr>
-<td rowspan="2">II · Defining &amp;<br>Measuring Bias</td>
 <td>🟦 2</td>
 <td style="white-space:nowrap;">15&nbsp;Apr</td>
 <td><a href="./docs/02.md">Defining and Measuring Fairness in AI — Recap</a></td>
@@ -36,7 +33,6 @@ Wednesdays, 3:15–4:45 PM
 <td><a href="./docs/03.md">Defining and Measuring Fairness in AI — Fundamentals</a></td>
 </tr>
 <tr>
-<td rowspan="2">III · Social<br>Choice for AI</td>
 <td>🟦 4</td>
 <td style="white-space:nowrap;">29&nbsp;Apr</td>
 <td><a href="./docs/04.md">Social Choice and AI Alignment</a></td>
@@ -47,19 +43,16 @@ Wednesdays, 3:15–4:45 PM
 <td><a href="./docs/05.md">Social Choice and AI Alignment</a></td>
 </tr>
 <tr>
-<td>IV · Economic<br>Impacts of AI</td>
 <td>🟦 6</td>
 <td style="white-space:nowrap;">13&nbsp;May</td>
 <td><a href="./docs/06.md">Economic Impacts of AI</a></td>
 </tr>
 <tr>
-<td>V · Democracy<br>&amp; LLMs</td>
 <td>🟦 7</td>
 <td style="white-space:nowrap;">20&nbsp;May</td>
 <td><a href="./docs/07.md">Democracy and LLMs</a></td>
 </tr>
 <tr>
-<td rowspan="5">Scientific<br>Contribution</td>
 <td>🟨 8</td>
 <td style="white-space:nowrap;">27&nbsp;May</td>
 <td><a href="./docs/08.md">Guest Lecture: Thomas Müller</a></td>
@@ -67,7 +60,7 @@ Wednesdays, 3:15–4:45 PM
 <tr>
 <td>🟨 9</td>
 <td style="white-space:nowrap;">10&nbsp;Jun</td>
-<td>Guest Lecture Sachit Mahajan</td>
+<td>Project Pitch: Introduction &amp; Literature Gap</td>
 </tr>
 <tr>
 <td>🟨 10</td>
@@ -85,7 +78,6 @@ Wednesdays, 3:15–4:45 PM
 <td>1:all Writing &amp; Figures Clinic</td>
 </tr>
 <tr>
-<td rowspan="2">Present<br>Your Idea</td>
 <td>🟩 13</td>
 <td style="white-space:nowrap;">08&nbsp;Jul</td>
 <td>1:1 Feedback on Presentation, Slides, Post, GitHub Repo</td>
@@ -96,7 +88,6 @@ Wednesdays, 3:15–4:45 PM
 <td>Final Presentation</td>
 </tr>
 <tr>
-<td rowspan="1">Post<br>Course</td>
 <td>⬜ </td>
 <td style="white-space:nowrap;">15 Aug</td>
 <td>Submit final paper</td>
